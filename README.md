@@ -32,6 +32,7 @@ A Convolutional Neural Network (CNN) trained on processed images to detect drows
 
 ### 📊 Model Architecture Visualization
 The model’s architecture, data distribution, and training progress can be visualized within the notebook for better understanding.
+
 ![Model Visualization 1](https://github.com/Dishant4277/Drowsiness-Detection-System/raw/main/model_visualisation.png)
 
-![Model Visualization 2](https://github.com/Dishant4277/Drowsiness-Detection-System/raw/main/model_visualisation2.png)
+![Model Visualization 2](https://github.com/Dishant4277/Drowsiness-Detection-System/raw/main/model_visualisation_2.png)
