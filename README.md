@@ -33,8 +33,4 @@ A Convolutional Neural Network (CNN) trained on processed images to detect drows
 ## 📊 Visualization
 The model’s architecture, data distribution, and training progress can be visualized within the notebook for better understanding.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
-🔗 **Project Repository:** [GitHub](https://github.com/Dishant4277/Drowsiness-Detection-System)  
-📢 **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1AYDvPfrov1NOHs7tRiR54ip9F66pPQ85-A832dIKtTA/edit?usp=sharing)
